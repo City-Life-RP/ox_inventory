@@ -1,11 +1,11 @@
-$mainColor: #22232c;
-$textColor: #c1c2c5;
-$mainFont: Roboto;
+$mainColor: #5bacb8b7;
+$textColor: #fff;
+$mainFont: "Comfortaa";
 
 $secondaryColor: rgba(12, 12, 12, 0.4);
 $secondaryColorHighlight: #33343F;
 $secondaryColorLight: rgba(0, 0, 0, 0.5);
-$secondaryColorDark: rgba(12, 12, 12, 0.8);
+$secondaryColorDark: #5bacb8b7;
 
 $gridCols: 5;
 $gridRows: 5;
@@ -318,7 +318,7 @@ button:active {
 }
 
 .inventory-slot-number {
-  background-color: white;
+  background-color: #5bacb8;
   color: black;
   height: 12px;
   border-top-left-radius: 0.25vh;
